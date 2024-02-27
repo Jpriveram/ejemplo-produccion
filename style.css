@@ -1,0 +1,18 @@
+.title{
+    color: blueviolet;
+}
+.container img{
+    display: inline-block;
+    width: 200px; /* Set the width of each image */
+    height: auto;
+}/*
+#world{
+
+height: 100px;
+width: 100px;
+
+}
+#hello{
+
+    size-adjust: 10px;
+}*/
